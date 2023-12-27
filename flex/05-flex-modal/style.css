@@ -17,6 +17,7 @@ body {
 
 .modal {
   background: white;
+  padding: 15px;
   width: 480px;
   border-radius: 10px;
   box-shadow: 2px 4px 16px rgba(0,0,0,.2);
@@ -67,10 +68,6 @@ button.cancel {
   background: white;
   border: 1px solid #ddd;
   color: royalblue;
-}
-
-.modal {
-  padding: 15px;
 }
 
 .icon {
